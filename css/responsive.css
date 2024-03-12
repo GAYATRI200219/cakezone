@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1100px)
+{
+	nav ul{margin-left: 0 !important;}
+}
+@media only screen and (max-width: 990px)
+{
+.top_sec{display: none !important;}
+nav ul li{border:1px solid lightcoral;}
+nav ul li a{text-align: center;}
+}
+@media only screen and (max-width: 600px)
+{
+.ma h2{font-size: 20px;} 
+.ma h1{font-size: 35px;}  
+.ma h4{font-size: 25px;} 
+.main{background-position: 100% 100%;} 
+}
+@media only screen and (max-width: 500px)
+{
+.ma{margin-left: 50px;}
+.ma h2{font-size: 20px;} 
+.ma h1{font-size: 35px;}  
+.ma h4{font-size: 20px;} 
+}
+@media only screen and (max-width: 500px)
+{
+.testimonial_baner{font-size: 25px !important;}
+}
